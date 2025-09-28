@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis-
+# Bank-Customer-Churn-Analysis
 
 ## Executive Summary  
 Customer churn is a critical challenge in the banking industry, directly affecting revenue and profitability. This project analyzes a retail bank’s customer data to uncover churn drivers, highlight key performance indicators, and provide actionable insights for improving customer retention.  
