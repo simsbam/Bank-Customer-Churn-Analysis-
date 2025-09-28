@@ -13,3 +13,18 @@ The analysis was conducted in **Excel**, showcasing how raw customer data can be
 - Build an **interactive dashboard** to support real-time business decisions.  
 
 ---
+
+## Key Insights  
+From a dataset of **10,000 customers**:  
+- **Retention Rate**: 79.6% (7,962 customers retained).  
+- **Churn Rate**: 20.4% (2,038 customers churned).  
+- **Satisfaction Score**: Average of 3.0/5 — lower scores strongly correlate with churn.  
+- **Customer Tenure**: Average of 5 years — longer-tenured customers are more loyal.  
+- **Demographics**: Younger customers (average age ~39) churn more frequently than older cohorts.  
+
+ **Strategic Implications**  
+- Improving customer satisfaction even slightly could materially reduce churn.  
+- Early-tenure and younger customers should be prioritized for **retention campaigns**.  
+- **Loyalty programs and proactive engagement** can help strengthen long-term retention.  
+
+---
